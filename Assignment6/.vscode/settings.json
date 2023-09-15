@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "semaphore.h": "c",
+        "teller.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c"
+    }
+}
